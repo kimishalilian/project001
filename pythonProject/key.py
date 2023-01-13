@@ -1,0 +1,1 @@
+apikey  = "https://v6.exchangerate-api.com/v6/7f96b44ad400f1ddad470db7/latest/TZS"
